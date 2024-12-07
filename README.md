@@ -68,4 +68,7 @@ Para rodar este projeto, siga os passos abaixo:
 - **Falhas no login**: Se o programa não conseguir detectar que você está logado, tente realizar o login novamente e reinicie o programa.
 - **Erros do Selenium**: Se ocorrerem erros relacionados ao Selenium (como falhas ao carregar a página), verifique se o navegador e o WebDriver estão configurados corretamente.
 
+## Contribuindo
+
+Estou em constante aprendizado e sempre de braços abertos para receber conselhos e ensinamentos, ficarei grato caso tenha interesse em contribuir com meus aprendizados!
 
